@@ -3,6 +3,7 @@
     "declaration": true,
     "emitDeclarationOnly": true,
     "importHelpers": true,
+    "target": "ES2015",
     "lib": ["dom", "ES2015"],
     "module": "CommonJS",
     "baseUrl": ".",
